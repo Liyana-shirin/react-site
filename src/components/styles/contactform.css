@@ -1,0 +1,31 @@
+/* Custom styling for the form */
+form {
+    background-color: #f9f9f9;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #007bff;
+  }
+  
+  button {
+    background-color: #007bff;
+    border: none;
+    padding: 12px;
+    font-size: 18px;
+  }
+  
+  textarea {
+    resize: none;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  .d-grid {
+    margin-top: 20px;
+  }
+  
